@@ -9,6 +9,8 @@
 
 # Proceso: El sistema reconoce y permite el intgreso solo de "Administradores".
 
+# admin; Nicolas Velandia
+
 
 rol = str(input("Ingrese su rol (admin/usuario): "))
 if rol == "admin":
